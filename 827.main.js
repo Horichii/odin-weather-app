@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkodin_template_repo=self.webpackChunkodin_template_repo||[]).push([[827],{827(e,p,s){e.exports=s.p+"b912923b9c36f5558aa9.svg"}}]);
