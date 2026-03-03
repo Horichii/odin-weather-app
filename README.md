@@ -1,0 +1,1 @@
+This is a learning project built while following The Odin Project curriculum. In production, API calls should be proxied and sensitive keys secured server-side.
